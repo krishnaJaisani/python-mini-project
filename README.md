@@ -21,9 +21,9 @@ python is a high level language
 [![License](https://img.shields.io/github/license/ndleah/python-mini-project?style=social&logo=github)](https://github.com/ndleah/python-mini-project/blob/main/LICENSE)
 
 <!-- omit in toc -->
+part of new_feature branch
 
-## Table Of Contents from krishna jaisani
-
+new file 
 - [Aim Of The Project](#-aim-of-the-project)
 - [Contributing](#-contributing)
 - [README Template for scripts](#-readme-template-for-scripts)
