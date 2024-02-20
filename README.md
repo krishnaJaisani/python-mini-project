@@ -20,7 +20,7 @@
 
 <!-- omit in toc -->
 
-## Table Of Contents from krishna
+## Table Of Contents from krishna jaisani
 
 - [Aim Of The Project](#-aim-of-the-project)
 - [Contributing](#-contributing)
