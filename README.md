@@ -12,6 +12,8 @@
 
 > A collection of easy Python small projects to help you improve your programming skills.
 
+python is a high level language
+
 ![Issues](https://img.shields.io/github/issues/ndleah/python-mini-project?style=social&logo=github)
 ![Pull Requests](https://img.shields.io/github/issues-pr/ndleah/python-mini-project?style=social&logo=github)
 ![Forks](https://img.shields.io/github/forks/ndleah/python-mini-project?style=social&logo=github)
